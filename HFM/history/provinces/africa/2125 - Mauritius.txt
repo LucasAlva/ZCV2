@@ -1,0 +1,7 @@
+owner = ENG
+controller = ENG
+add_core = MAU
+trade_goods = sugar	#fruit
+life_rating = 35
+colonial = 2
+terrain = mountain

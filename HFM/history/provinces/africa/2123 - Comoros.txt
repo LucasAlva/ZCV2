@@ -1,0 +1,4 @@
+add_core = CMS
+trade_goods = sugar	#fish
+life_rating = 30
+colonial = 2

@@ -1,0 +1,2 @@
+trade_goods = ivory	#grain
+life_rating = 10
